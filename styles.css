@@ -1207,6 +1207,7 @@ ul.contact-info-list li span a{
         display: flex;
         position: relative;
         margin-right: 0px;
+        margin-left: 14%;
     
     }
     .about-info{
@@ -1214,13 +1215,13 @@ ul.contact-info-list li span a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 59%;
+    width: 88%;
     text-align: center;
     color: white;
     text-shadow: 1px 1px black;
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     }
-    .drinking-tea {
+.drinking-tea {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
@@ -1251,6 +1252,7 @@ ul.contact-info-list li span a{
         justify-content: center;
         align-items: center;
         width: 89%;
+        font-size: 1.1rem;
         text-align: center;
         color: white;
         text-shadow: 1px 1px black;
@@ -1264,7 +1266,7 @@ ul.contact-info-list li span a{
         align-self: center;
         width: 79%;
         text-align: center;
-        font-size: 1rem;
+        font-size: 1.1rem;
         color: white;
         text-shadow: 1px 1px black;
     }
